@@ -1,5 +1,5 @@
 body {
-	background-color: #D6EBFF;
+	background-color: #E2F1FF;
 	font: 12px/1.4 "Helvetica Neue", "Helvetica" serif;
 	max-width: 600px;
 	margin: 0 auto;
@@ -13,4 +13,5 @@ a {
 p {
 	border-bottom 1px solid #F9999;
 	padding-bottom: 5px;
+	font: "Arial";
 }
