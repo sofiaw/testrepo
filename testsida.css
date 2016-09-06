@@ -1,0 +1,16 @@
+body {
+	background-color: lightblue;
+	font: 12px/1.4 "Helvetica Neue", "Helvetica" serif;
+	max-width: 600px;
+	margin: 0 auto;
+	}
+h1 {
+	color: #FF9999;
+}
+a {
+	color: #FF3333;
+}
+p {
+	border-bottom 1px solid #F9999;
+	padding-bottom: 5px;
+}
