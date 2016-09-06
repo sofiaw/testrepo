@@ -5,10 +5,13 @@ body {
 	margin: 0 auto;
 	}
 h1 {
-	color: #FF9999;
+	color: #FF7070;
+}
+h2 {
+	color: #7074FF;
 }
 a {
-	color: #FF3333;
+	color: #7074FF;
 }
 p {
 	border-bottom 1px solid #F9999;
